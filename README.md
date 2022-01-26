@@ -4,8 +4,6 @@
 
 This repository contains some codes that I wrote to prepare for miscellaneous programming contests. Problems, solutions, along with other detailed descriptions are listed below. Updates to this repo may be made periodically.
 
-Kattis: https://open.kattis.com/users/ruidazeng
-
 ## Probem Lists
 
 Detailed descriptions for these problems are included in a .md file in the folder that contains the source codes. Do note that my coding styles and efficiencies of the solutions tend to get better as I go further along.
